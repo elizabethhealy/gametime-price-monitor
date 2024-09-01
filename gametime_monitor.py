@@ -1,4 +1,3 @@
-from cgitb import text
 import requests
 import argparse
 import os
